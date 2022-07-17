@@ -2,7 +2,7 @@
 
 The project **Master Patient Index** is a Single Page Web Application. The entire application is developed using **Vue.js** and **Laravel** framework and it contains Patient and Staff Modules only.
 
-![Mockup](https://user-images.githubusercontent.com/68781375/179391726-d57b3902-f158-48b2-973a-80713913dcec.jpg)
+![Mockup](https://user-images.githubusercontent.com/68781375/179391766-0e9050fa-a43b-4f0d-9802-bf1d2d32b563.jpg)
 
 ## Abstract
 
