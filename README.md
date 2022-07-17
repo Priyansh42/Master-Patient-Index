@@ -9,7 +9,7 @@ The **Master Patient Index** does have **MySQL** as database support. The databa
 ## Scope
 
 * This application contains some basic modules of any patient management system along with some customized features as per the requirements of the Hospital.
-* This application contains some basic modules of any patient management system along with some customized features as per the requirements of the Hospital.
+* This application fulfills all the requirements of particular Hospital and it may or may not meet all the requirements of any other Hospitals.
 
 ## Development Environment
 
