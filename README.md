@@ -2,6 +2,8 @@
 
 The project **Master Patient Index** is a Single Page Web Application. The entire application is developed using **Vue.js** and **Laravel** framework and it contains Patient and Staff Modules only.
 
+![Mockup](https://user-images.githubusercontent.com/68781375/179391726-d57b3902-f158-48b2-973a-80713913dcec.jpg)
+
 ## Abstract
 
 The **Master Patient Index** does have **MySQL** as database support. The database keeps all records related to patient and staff information, Schedule appointment, Manage Appointment, Generate bill etc. The Hospital can store and manipulate data just by doing few clicks and can even generate bills and keep track on the appointments. This application reduces the amount of manual data entry and manual calculation and gives greater efficiency which in turn saves the time.
