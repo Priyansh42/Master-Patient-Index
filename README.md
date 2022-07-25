@@ -6,7 +6,7 @@ The project **Master Patient Index** is a Single Page Web Application. The entir
 
 ## Other Contributors
 
-[harshil311](https://github.com/harshil311) | [ishanshah1802](https://github.com/ishanshah1802) | [Manan2606](https://github.com/Manan2606)
+[Harshil Rana](https://github.com/harshil311) | [Ishan Shah](https://github.com/ishanshah1802) | [Manan Shah](https://github.com/Manan2606)
 
 ## Abstract
 
