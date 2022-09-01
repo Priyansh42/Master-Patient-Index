@@ -41,6 +41,8 @@ https://user-images.githubusercontent.com/68781375/179391073-37b60170-99e8-477b-
 
 See Screenshots [here](https://github.com/Priyansh42/Master-Patient-Index/tree/main/Screenshots) 
 
+See Generated Bill PDF Sample [here](https://github.com/Priyansh42/Master-Patient-Index/blob/main/Bill%20-%20%7B_bill_id__2%7D.pdf)
+
 ##
 
 **Here in this repository, we have uploaded all the files that are required to develop this application.**
